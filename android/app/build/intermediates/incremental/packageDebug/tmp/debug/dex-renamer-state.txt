@@ -1,0 +1,4 @@
+#Sun Apr 14 15:37:59 PKT 2019
+base.0=/home/azhar/Mobile Developement/React_Native/Mid_Term-React-Native/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

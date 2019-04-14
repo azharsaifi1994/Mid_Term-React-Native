@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/azhar/Mobile Developement/React_Native/Mid_Term-React-Native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/azhar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e8ad8f42da7cef464d5d6f4d0211127c/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

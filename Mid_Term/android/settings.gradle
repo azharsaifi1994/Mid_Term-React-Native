@@ -1,0 +1,3 @@
+rootProject.name = 'Mid_Term'
+
+include ':app'
